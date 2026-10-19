@@ -1,0 +1,11 @@
+<resources>
+    
+    <string name="tv_titulo">Garceran Babees</string>
+    <string name="tv_slogan">Babies Style-Shop</string>
+    <string name="tv_registrarse">registrarme</string>
+    <string name="catalogo">catálogo</string>
+    <string name="tv_novedades">Novedades: </string>
+    <string name="tv_conjunto_invierno">Conjunto invierno</string>
+    <string name="tv_precio">34,50 €</string>
+    
+</resources>
