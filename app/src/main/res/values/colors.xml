@@ -3,10 +3,10 @@
 
     <color name="acento">#FFE4572E</color>
     <color name="texto_principal">#FF1D1B20</color>
-    <color name="btn_catalogo">#00629E></color>
+    <color name="btn_catalogo">#00629E</color>
     <color name="ly_novedades">#CFE5FF</color>
     <color name="ly_conjunto_invierno">#F8EBEB</color>
-    <color name="tv_Precio">#1A1C1E</color>
+    <color name="tv_precio">#1A1C1E</color>
     <color name="tv_conjunto_invierno">#1A1C1E</color>
 
 
